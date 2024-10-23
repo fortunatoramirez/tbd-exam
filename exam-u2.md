@@ -173,7 +173,7 @@ Aquí tienes el examen actualizado con los cambios solicitados, incluyendo los c
      });
      ```
 
-4. **Inserta los datos en la base de datos desde la página (al menos cinco) y muéstra todos los registros hechos directamente desde la terminal con MySQL.
+4. **Inserta los datos en la base de datos desde la página (al menos cinco) y muéstra todos los registros hechos directamente desde la terminal con MySQL.**
 
 #### Ejercicio 4: Consulta y Muestra de Equipos Registrados desde la página
 
