@@ -1,8 +1,4 @@
-Aquí tienes el examen actualizado con los cambios solicitados, incluyendo los colores para los botones y los nuevos requerimientos para que los alumnos te muestren los equipos registrados desde la terminal. Además, he agregado el paso final en cada ejercicio que indica lo que los estudiantes deben mostrar.
-
----
-
-### Examen Práctico: Proyecto de Gestión de Equipos Biomédicos
+### Examen Práctico: Gestión de Equipos Biomédicos
 
 #### Ejercicio 1: Configuración Inicial del Proyecto
 
@@ -237,7 +233,42 @@ Aquí tienes el examen actualizado con los cambios solicitados, incluyendo los c
 
    ```
 
-2. **Realiza una consulta de todos los equipos registrados y muéstra los resultados desde la página web.**
+2. **Agregar estilo para la tabla. Por ejemplo:**
+   ```css
+     /* Estilos de la tabla */
+     table {
+       width: 80%;
+       margin: 20px auto;
+       border-collapse: collapse;
+       background-color: #fff;
+       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     }
+     
+     th, td {
+       padding: 12px 15px;
+       border: 1px solid #ddd;
+       text-align: center;
+     }
+     
+     th {
+       background-color: #007bff;
+       color: white;
+       text-transform: uppercase;
+     }
+     
+     tr:nth-child(even) {
+       background-color: #f2f2f2;
+     }
+     
+     tr:hover {
+       background-color: #ddd;
+     }
+   
+   ```
+4. **Agregar un botón en la página para realizar la consulta de todos los equipos registrados.** 
+5. **Realiza una consulta de todos los equipos registrados y muéstra los resultados desde la página web.**
 
-#### Ejercicio 5: Notificación de Éxito o Error al Insertar Datos
+#### Ejercicio 5: Buscar equipos médicos
+1. **Agregar los bloques necesarios para que desde la página se puedan buscar equipos médicos en la Base de Datos y se muestren en una tabla con un estilo agradable.**
+3. **Mostrar Los resultados de las búsquedas desde la página.**
 
