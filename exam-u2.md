@@ -270,5 +270,11 @@
 
 #### Ejercicio 5: Buscar equipos médicos
 1. **Agregar los bloques necesarios para que desde la página se puedan buscar equipos médicos en la Base de Datos y se muestren en una tabla con un estilo agradable.**
-3. **Mostrar Los resultados de las búsquedas desde la página.**
+3. **Mostrar Los resultados de las búsquedas en la página.**
+   
+#### Ejercicio 6: Agregar los bloques necesarios para que la interfaz muestre los equipos ordenados por fecha de ingreso ascendente o descendente.
+1. **Mostrar Los resultados de las búsquedas en la página.**
+   
+#### Ejercicio 7: Agregar los bloques necesarios para que la interfaz muestre un mensaje con estilo cuando un equipo ha sido registrado con éxito o cuando haya algún error en el registro.
+1. **Mostrar Los resultados en la página.**
 
