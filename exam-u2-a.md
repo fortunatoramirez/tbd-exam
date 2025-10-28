@@ -229,3 +229,5 @@
 #### Ejercicio 7: Mostrar Mensajes de Confirmación
 
 1. **Agregar los bloques necesarios para que la interfaz muestre un mensaje estilizado cuando un insumo ha sido registrado con éxito o haya algún error en el registro.**
+
+#### Ejercicio 8: Agrega al sistema la característica que desees utilizando llaves foráneas (relación entre tablas).
